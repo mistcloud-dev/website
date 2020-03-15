@@ -1,0 +1,15 @@
+[submodule "themes/osprey-delight"]
+	path = themes/osprey-delight
+	url = https://github.com/kdevo/osprey-delight.git
+[submodule "themes/themes/hugo-fresh"]
+	path = themes/themes/hugo-fresh
+	url = https://github.com/StefMa/hugo-fresh
+[submodule "themes/timer-hugo"]
+	path = themes/timer-hugo
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "themes/syna-start"]
+	path = themes/syna-start
+	url = https://git.okkur.org/syna-start
+[submodule "themes/syna"]
+	path = themes/syna
+	url = https://github.com/okkur/syna.git
