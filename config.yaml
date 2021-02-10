@@ -1,4 +1,4 @@
-baseURL: https://mist.llc
+baseURL: https://mist.dev
 languageCode: en-us
 title: Mist Cloud Services
 theme: hugo-fresh
@@ -45,7 +45,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Contact
-    url: mailto:info@mist.llc
+    url: mailto:info@mist.dev
     #  - title: Pricing
     #    url: /
     #  - title: Dropdown
@@ -68,17 +68,17 @@ params:
     - title: Start Fresh
       icon: mouse-globe
       text: Design your solution cloud first
-      url: mailto:cloud@mist.llc
+      url: mailto:cloud@mist.dev
       buttonText: Contact Us
     - title: Cloud Re-Architecture
       icon: laptop-cloud
       text: Rebuild with cloud native in mind
-      url: mailto:cloud@mist.llc
+      url: mailto:cloud@mist.dev
       buttonText: Contact Us
     - title: Iterative Migrations
       icon: plug-cloud
       text: Begin new cloud projects that work with what you have
-      url: mailto:cloud@mist.llc
+      url: mailto:cloud@mist.dev
       buttonText: Contact Us
       #  section2:
       #    title: You're here because you want the best
